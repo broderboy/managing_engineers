@@ -1,6 +1,6 @@
 ## Managing Engineers Reading List
 
-* WIP: please send suggestions to [@mkyleboon](https://twitter.com/kyleboon), [open an issue](https://github.com/kyleboon/managing_engineers/issues), or send a pull request
+* WIP: please send suggestions to [@kyleboon](https://twitter.com/kyleboon), [open an issue](https://github.com/kyleboon/managing_engineers/issues), or send a pull request
 
 
 #### General

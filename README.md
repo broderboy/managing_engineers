@@ -9,7 +9,7 @@
 * [Org Charts and Diff Production](http://www.naildrivin5.com/blog/2013/12/03/org-charts-and-diff-production.html)
 * [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/1)
 * [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-* 
+* [Good vs Bad Tech Leads from FourSquare](https://medium.com/p/948b2b806d86)
 
 #### Leadership
 

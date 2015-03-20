@@ -24,6 +24,7 @@
 * [Leadership and the New Science: Discovering Order in a Chaotic World](http://www.amazon.com/Leadership-New-Science-Discovering-Chaotic/dp/1576753441/ref=sr_1_1?s=books&ie=UTF8&qid=1397601154&sr=1-1&keywords=Leadership+%26+The+new+science)
 * [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](http://www.amazon.com/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013/ref=sr_1_1?s=books&ie=UTF8&qid=1397600960&sr=1-1&keywords=The+secrets+of+consulting)
 * [The Five Dysfunctions of a Team: A Leadership Fable](http://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1397601002&sr=1-1&keywords=The+five+dysfucntions+of+a+team)
+* [Impactful Leadership](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)
 
 #### Organization
 

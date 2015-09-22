@@ -17,6 +17,7 @@
 * [Quality Is Free: The Art of Making Quality Certain](http://www.amazon.com/Quality-Is-Free-Making-Certain/dp/0451625854/ref=sr_1_1?ie=UTF8&qid=1397601272&sr=8-1&keywords=Quality+if+Free%3A+The+art+of+making+quality+certain)
 * [The Psychology of Computer Programming](http://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420/ref=sr_1_1?s=books&ie=UTF8&qid=1397601121&sr=1-1&keywords=The+psychology+of+computer+programming)
 * [Sources of Power: How People Make Decisions](http://www.amazon.com/Sources-Power-People-Make-Decisions/dp/0262611465/ref=sr_1_1?s=books&ie=UTF8&qid=1397601032&sr=1-1&keywords=Sources+of+Power)
+* [This 90-Day Plan Turns Engineers into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
 #### Leadership
 
